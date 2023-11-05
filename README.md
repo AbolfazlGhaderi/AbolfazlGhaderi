@@ -2,11 +2,11 @@
 
 ###
 
-<h3 align="left">My name is Abolfazl But My friends call me Brian , a BackEnd Developer 🧑🏼‍💻🔐</h3>
+<p align="left">My name is Abolfazl But My friends call me Brian , a BackEnd Developer 🧑🏼‍💻🔐</p>
 
 ###
 
-<h2 align="left">About me</h2>
+<p align="left">About me</p>
 
 ###
 
@@ -14,7 +14,7 @@
 
 ###
 
-<h2 align="left">I code with</h2>
+<p align="left">I code with</p>
 
 ###
 
@@ -32,7 +32,7 @@
 
 ###
 
-<h2 align="left">Social Media :</h2>
+<p align="left">Social Media :</p>
 
 ###
 
