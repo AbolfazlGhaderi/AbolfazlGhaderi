@@ -9,7 +9,7 @@
 <p align="center">
 
    <em> 
-I am interested in teamwork and I would like to work inside a large company.<br><br>
+I'm interested in teamwork and I would like to work inside a large company.<br><br>
   <b>"---Always Work Hard and Trust the Process---"</b>
     </em>
 
@@ -18,7 +18,7 @@ I am interested in teamwork and I would like to work inside a large company.<br>
 ###
 # 💫 About Me:
 📚 I'm currently learning <b> NodeJs => Express & NestJS </b><br>
-🏢 I'm interested in teamworkand I really like to work in a big company<br>
+🏢 I'm interested in teamwork and I would like to work inside a large company<br>
 🎯 My goal is to have my own business so that I am not controlled by anyone<br>
  <br>
 
